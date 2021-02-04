@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-anonymize",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "babel-plugin-anonymize renames variables, functions, classes, and more by replacing them with random words, while keeping code functional. Great for sanitizing private code in order to share it publicly on the internet!",
   "main": "lib/index.js",
   "scripts": {
@@ -32,7 +32,7 @@
     }
   },
   "lint-staged": {
-    "*": [
+    "*.{js,json,md}": [
       "npm run format"
     ]
   },

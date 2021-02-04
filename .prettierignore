@@ -1,2 +1,3 @@
 lib
 test/__fixtures__/**/output.js
+package-lock.json
