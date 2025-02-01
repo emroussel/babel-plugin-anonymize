@@ -2,7 +2,7 @@
 
 `babel-plugin-anonymize` renames variables, functions, classes, and more by replacing them with random words, while keeping code functional. Great for sanitizing private code in order to share it publicly on the internet!
 
-Try it out live at https://anonymizejs.com.
+Try it out live at https://anonymize-javascript.vercel.app.
 
 ## Install
 
